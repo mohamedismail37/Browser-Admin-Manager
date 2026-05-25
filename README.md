@@ -12,7 +12,33 @@ The application is built using an N-Tier Architecture, ensuring clear separation
 - Block specific websites  
 - Unblock specific websites  
 - Block all websites using wildcard policy (`*`)  
-- Display all currently blocked websites  
+- Display all currently blocked websites
+
+
+#### Main Page:
+![MainPage](assets/MainPage.png)
+
+
+#### Block a specific website
+| Google Chrome | Microsoft Edge |
+|---------------|----------------|
+| ![](assets/ChromeUrlBlocklist1.png) | ![](assets/EdgeUrlBlocklist1.png) | 
+
+#### Block all Websites
+| Google Chrome | Microsoft Edge |
+|---------------|----------------|
+| ![](assets/ChromeUrlBlocklist2.png) | ![](assets/EdgeUrlBlocklist2.png) | 
+
+#### Block a website Steps:
+| Write URL | Accept Blocking | Show in Data Grid View |
+|-----------|-----------------|------------------------|
+| ![](assets/BlockWebsite1.png) | ![](assets/BlockWebsite2.png) | ![](assets/BlockWebsite3.png) 
+
+#### Blocked Website Result:
+![BlockedWebsite](assets/BlockedWebsite.png)
+
+#### Unblock a blocked website:
+![UnblockWebsite](assets/UnblockWebsite.png)
 
 ### ⚙️ Browser Policy Control
 - Enable / Disable JavaScript  
@@ -22,8 +48,26 @@ The application is built using an N-Tier Architecture, ensuring clear separation
 - Enable / Disable Auto Update Check
 - Enable / Disable Add Person (Account)
 
+#### Google Chrome Features
+| Disabling | Enabling |
+|-----------|----------|
+| ![](assets/ChromeFeatures1.png) | ![](assets/ChromeFeatures2.png) | 
+
+#### Microsoft Edge Features
+| Disabling | Enabling |
+|-----------|----------|
+| ![](assets/EdgeFeatures1.png) | ![](assets/EdgeFeatures2.png) | 
+
+
 ### 🧩 Extension Management
-- Install forced browser extensions via policy enforcement  
+- Install forced browser extensions via policy enforcement
+
+
+#### Extensions Install Forcelist:
+| Google Chrome | Microsoft Edge |
+|---------------|----------------|
+| ![](assets/ChromeExtenstionForcelist.png) | ![](assets/EdgeExtenstionForcelist.png) | 
+
 
 ### 🧠 System-Level Control
 - Apply browser restrictions using Windows Registry  
@@ -91,7 +135,7 @@ This design ensures:
 
 ## Future Improvements
 
-- [ ] Add Pictures of the application
+- [x] ~~Add Pictures of the application.~~
 - [ ] Add support for additional browsers (Firefox, Opera)  
 - [ ] Add **Deployment and Setup (Installation)** section
 - [ ] Export/import policy configurations  
