@@ -40,6 +40,8 @@ The application is built using an N-Tier Architecture, ensuring clear separation
 #### Unblock a blocked website:
 ![UnblockWebsite](assets/UnblockWebsite.png)
 
+---
+
 ### ⚙️ Browser Policy Control
 - Enable / Disable JavaScript  
 - Control Incognito mode (Google Chrome)  
@@ -58,6 +60,7 @@ The application is built using an N-Tier Architecture, ensuring clear separation
 |-----------|----------|
 | ![](assets/EdgeFeatures1.png) | ![](assets/EdgeFeatures2.png) | 
 
+---
 
 ### 🧩 Extension Management
 - Install forced browser extensions via policy enforcement
@@ -68,6 +71,7 @@ The application is built using an N-Tier Architecture, ensuring clear separation
 |---------------|----------------|
 | ![](assets/ChromeExtenstionForcelist.png) | ![](assets/EdgeExtenstionForcelist.png) | 
 
+---
 
 ### 🧠 System-Level Control
 - Apply browser restrictions using Windows Registry  
