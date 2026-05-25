@@ -1,9 +1,6 @@
-# Browser-Admin-Manager
-Browser Admin Manager is a Windows desktop tool that manages browser policies at the system level using registry settings. It allows blocking/unblocking websites and controlling features like Incognito mode, JavaScript, with a scalable design that supports multiple browsers. It follows n-tier architecture to ensure scalability and maintainability 
-
 # Overview
 
-Browser Control Panel is a Windows-based administrative tool designed for managing and enforcing browser policies at the system level. It enables IT administrators to control browser behavior using Windows Registry-based configurations in a structured and maintainable way.
+Browser Admin Manager is a Windows-based administrative tool designed for managing and enforcing browser policies at the system level. It enables IT administrators to control browser behavior using Windows Registry-based configurations in a structured and maintainable way.
 
 The application is built using an N-Tier Architecture, ensuring clear separation between UI, business logic, and data access layers.
 
